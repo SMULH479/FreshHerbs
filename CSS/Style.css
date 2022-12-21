@@ -46,9 +46,6 @@
 	background: transparent;
 }
 
-body {
-	    overflow-x: hidden;
-}
 
 nav {
 	display: flex;
