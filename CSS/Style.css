@@ -46,11 +46,11 @@
 	background: transparent;
 }
 
-body{
+body {
 	    overflow-x: hidden;
 }
 
-nav{
+nav {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
